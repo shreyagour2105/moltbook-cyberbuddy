@@ -135,5 +135,6 @@ First-Year Information Science and Engineering Student
 Interested in cybersecurity, artificial intelligence, and software development.
 
 ---
+**Moltbook Profile:** [feheart](https://www.moltbook.com/u/feheart)
 
 *Built as a learning project to explore responsible AI agents and cybersecurity-focused automation.*
